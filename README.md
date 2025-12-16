@@ -55,7 +55,13 @@ Karena keseluruhan kolom yang ada merupakan data kategorikal, maka pengecekan ou
 Persentase adaptivity level high lebih banyak tersebar di siswa yang memiliki lms dan persentase adaptivity level lebih tersebar di murid yang tidak memiliki lms. Yang berarti LMS sedikit membantu murid dalam sistem pembelajaran online
 
 ### Pengaruh Faktor Demografis terhadap Adaptasi Murid
-<img width="191" height="242" alt="image" src="https://github.com/user-attachments/assets/c48ed120-ad6c-4b97-980e-78b9cb5b4540" />
+<img width="943" height="242" alt="image" src="https://github.com/user-attachments/assets/8695c7a8-4f65-4d4b-a2d4-1590af99fa4f" />
+<img width="969" height="233" alt="image" src="https://github.com/user-attachments/assets/231cedf2-5557-4c31-bccd-2ba0f7ea4916" />
+<img width="964" height="232" alt="image" src="https://github.com/user-attachments/assets/8067f5af-7c13-4f19-999d-e5e61807de4f" />
+<img width="968" height="236" alt="image" src="https://github.com/user-attachments/assets/24cd08f9-2b61-468f-bf8b-d6dc083dc3bf" />
+<img width="928" height="221" alt="image" src="https://github.com/user-attachments/assets/3c1dafd2-89cc-4b4c-bddc-e9ceeb31470c" />
+
+
 
 Berikut kelompok demografis yang membutuhkan perhatian lebih:
 - Teenager
@@ -65,4 +71,11 @@ Berikut kelompok demografis yang membutuhkan perhatian lebih:
 - Memiliki financial condition yang kurang baik
 
 ### Class Duration Optimal
+<img width="298" height="509" alt="image" src="https://github.com/user-attachments/assets/3596213c-5a19-4cae-977d-a2a338ff1984" />
 
+Kelompok demografis yang membutuhkan atensi lebih cenderung lebih bisa beradaptasi di jam pembelajaran berkisar 3-6 jam perhari.
+
+## Actionable Insights
+- Sarankan setiap institusi pendidikan untuk mengembangkan sistem lms masing-masing.
+- Berikan atensi lebih terhadap kelompok demografis yang kurang bisa beradaptasi
+- Terapkan jam pembelajaran 3-6 jam perhari terutama untuk age group teenager. (attention span anak kecil cenderung rendah dan young adult biasanya sudah memiliki tanggung jawab diluar pendidikan sehingga kedua kategori usia tersebut kurang cocok apabila harus menjalani jam belajar yang lebih lama)
